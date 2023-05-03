@@ -1,4 +1,7 @@
-label :
-1  = Positive
-0  = Netral
--1 = Negative
+Label :
+
+2 : Very Positive
+1 : Positive
+0 : Neutral
+-1 : Negative
+-2 : Very Negative
