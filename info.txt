@@ -5,3 +5,5 @@ Label :
 0 : Neutral
 -1 : Negative
 -2 : Very Negative
+
+Dataset : https://www.kaggle.com/datasets/tariqsays/sentiment-dataset-with-1-million-tweets
